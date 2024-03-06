@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Работа с меню</string>
+
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="speed">м/с</string>
+    <string name="temperature">Температура</string>
+    <string name="temperature_feels_like">Ощущается как</string>
+    <string name="description">Описание</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorkWithMenu</string>
+
+    <string name="wind_speed">Wind speed: </string>
+    <string name="speed">m/s: </string>
+    <string name="temperature">Temperature: </string>
+    <string name="temperature_feels_like">Temperature feels like: </string>
+    <string name="description">Description: </string>
+</resources>
